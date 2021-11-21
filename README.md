@@ -1,2 +1,3 @@
-# recipe-app-api
-Recipe app api source code
+# RecipeAppApi
+Course From Mark Winterbottom for Build a Backend REST API with Python & Django - Advanced  
+The Course is [ Course From Mark Winterbottom for Build a Backend REST API with Python & Django - Advanced](https://www.udemy.com/course/django-python-advanced/)
